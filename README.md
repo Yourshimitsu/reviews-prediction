@@ -1,5 +1,6 @@
 # reviews-prediction
 По отзывам амазон предсказываем оценку пользователя 1-5
+
 Pet-project по NLP: предсказание оценки 1–5 по тексту отзывов Amazon (Video Games, 5-core)
 
 1 способ TF-IDF + LogReg
